@@ -84,6 +84,23 @@ transition:.3s;
 color:#2563eb;
 
 }
+/*================ MENU TOGGLE =================*/
+
+.menu-toggle{
+
+display:none;
+
+font-size:32px;
+
+font-weight:bold;
+
+cursor:pointer;
+
+color:#2563eb;
+
+user-select:none;
+
+}
 
 /* HERO */
 

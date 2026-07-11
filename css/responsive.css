@@ -95,14 +95,16 @@ font-size:30px;
 }
 
 .menu-toggle{
-
-display:block;
+    
+display:block !important;
 
 font-size:34px;
 
 cursor:pointer;
 
 color:#2563eb;
+
+z-index:1001;
 
 }
 
